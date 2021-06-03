@@ -1,0 +1,108 @@
+html{
+  border: 30px;
+
+}
+body{
+  border:10px;
+  line-height: 1px;
+  }
+h2{
+  color: teal;
+  font-family: 'Heebo', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+h3{
+  color: #583d72;
+  font-family: 'Heebo', sans-serif;
+  font-size: 1.5rem;
+  padding: 2%;
+}
+
+.inline-text{
+  color: teal;
+  font-family: 'Heebo', sans-serif;
+  float: left;
+}
+.container-fluid
+{
+  padding: 2%;
+
+
+
+}
+.span-orange{
+  color: #f9b208;
+}
+#first-section{
+  position: relative;
+    text-align: left;
+    width: 90%;
+  background-color: #f2dac3;
+  padding: 4%;
+  margin: 4%;
+
+}
+
+.outer-class{
+  display: inline-block;
+}
+
+.input-class{
+  border: 1px solid;
+  border-color: white;
+  background-color: teal;
+  padding: 2%;
+  width: 95%;
+  text-align: center;
+  color: white;
+  letter-spacing: 4px;
+}
+.cupcake-class{
+  position: relative;
+}
+
+.cupcake{
+  position: relative;
+
+  width: 60%;
+  height: 50%;
+}
+
+.food{
+  position: relative;
+  width: 90%;
+  height: 90%;
+}
+
+.last-class.{
+  text-align: right;
+  width: 30%;
+}
+.junk{
+  width: 100%;
+  height: 40%;
+}
+.inline1-text{
+  font-size: 1.5rem;
+  color: teal;
+  font-family: 'Heebo', sans-serif;
+  float: left;
+  margin: 0;
+}
+div .right-class, div .sub-class{
+  spacing: 2%;
+  display: block;
+padding: 0;
+}
+
+.healthy{
+  width: 70%;
+  height: 50%;
+    }
+
+.health{
+  /* clip-path: circle(50% at 50% 50%); */
+  border: 2px solid teal;
+  border-radius: 50%;
+}
